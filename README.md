@@ -1,7 +1,7 @@
 # Dom's super awesome cool webpage
 ## Welcome to my webpage!11!!
+# Outfit Inspo
 
-Outfit Inspo
 ![Maga](https://m.media-amazon.com/images/I/41ZKJgIkzHL._AC_.jpg)
 ^Maga Hat
 ![IsseyCargo](https://cdn.fs.grailed.com/api/file/r0voa0S6SUiMwyy5XD4A)
