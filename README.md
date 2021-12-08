@@ -1,6 +1,6 @@
 # Dominic's Awesome Fun Website
 ## Welcome to my webpage!11!!
-# Outfit Inspo
+### Outfit Inspo
 
 ![Maga](https://m.media-amazon.com/images/I/41ZKJgIkzHL._AC_.jpg)
 
