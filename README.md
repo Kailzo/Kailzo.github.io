@@ -2,6 +2,8 @@
 ## Welcome to my webpage!11!!
 ### cool swag
 
+![stu](https://i.ibb.co/8bXYBj5/avatars-Skcq-ROr8g6-Zy-Vh2-D-62zw-Qw-t500x500.jpg)
+
 ![Maga](https://m.media-amazon.com/images/I/41ZKJgIkzHL._AC_.jpg)
 
 ^Maga Hat
