@@ -12,7 +12,7 @@
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
-    position:sticky;
+    position: sticky;
     top: 0;
     z-index: 999;
 }
@@ -24,8 +24,10 @@
     z-index: 1;
     width:100%;
     max-width: 1300px;
-    margin: 0 auto;
-    padding: 0 59px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
 }
 
 #navbar__logo {
@@ -59,7 +61,6 @@
 
 .navbar__item {
     height: 80px;
-
 }
 
 .navbar__links{
@@ -106,7 +107,7 @@
     transition: all 0.3s ease;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 960px) {
     .navbar__container {
         display: flex;
         justify-content: space-between;
